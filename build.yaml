@@ -19,4 +19,4 @@
 #
 ---
 include:
-  - board: bt65_v1
+  - board: superuser_rev1
